@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=50&lines=root%40alexito-sec%3A~%23+System+Administrator;root%40alexito-sec%3A~%23+Cybersecurity+Analyst;root%40alexito-sec%3A~%23+eJPTv2+Junior+Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=50&lines=root%40alexito-sec%3A~%23+System+Administrator;root%40alexito-sec%3A~%23+Cybersecurity+Analyst;root%40alexito-sec%3A~%23+eJPTv2+Junior+Pentester" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <a href="https://alexitocvf16.github.io" target="_blank">
