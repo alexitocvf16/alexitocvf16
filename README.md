@@ -22,8 +22,8 @@
 > **Alejandro Sánchez Moreno** — Administrador de Sistemas y Técnico de Ciberseguridad.
 > Cursando 2º de **ASIR** en *Tech Hub Euroformac* (Toledo, España). Apasionado de la ciberseguridad defensiva, el hacking ético, las redes y la automatización.
 
-* 📍 **Ubicación:** Toledo, España (*Disponibilidad inmediata y geográfica*)
-* 🚗 **Movilidad:** Carnet de conducir B y coche propio
+* 📍 **Ubicación:** Toledo, España.
+* 🚗 **Movilidad:** Carnet de conducir B y coche propio.
 * ⚡ **Estado:** `DISPONIBLE_PARA_TRABAJAR`
 
 ---
