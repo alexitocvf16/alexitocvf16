@@ -58,5 +58,5 @@
 🔄 Migración P2V con Clonezilla: Respaldo de servidores físicos en frío a nivel de bloques e integración sobre discos virtuales VDI en VirtualBox.
 
 💀 Writeups & Máquinas Vulnerables (CTF)
-Documentación de auditorías y resolución de laboratorios prácticos en DockerLabs, HackMyVM y HackerLabs siguiendo estándares de pentesting (eJPTv2).
+Documentación de auditorías y resolución de laboratorios prácticos en DockerLabs, HackMyVM y HackerLabs siguiendo estándares de pentesting
 
