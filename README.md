@@ -60,4 +60,3 @@
 💀 Writeups & Máquinas Vulnerables (CTF)
 Documentación de auditorías y resolución de laboratorios prácticos en DockerLabs, HackMyVM y HackerLabs siguiendo estándares de pentesting (eJPTv2).
 
-Máquinas Resueltas: Sedition, Canto, Grooti, Darkweb, Ofuspingu, Usersearch, Spiderport.
